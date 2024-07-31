@@ -1,2 +1,3 @@
 # ProjectBarber
- Primeiro repositorio 
+ Primeiro repositorio
+ Buscando criação de um projeto para barbeiros
